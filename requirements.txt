@@ -1,0 +1,7 @@
+tkinter (Built-in)
+requests
+beautifulsoup4
+termcolor
+hashlib
+unittest
+logging
