@@ -7,8 +7,8 @@ This project implements a recursive web crawler in Python that supports both CLI
 This tool uses a hardcoded user authentication system. Modify USER_CREDENTIALS in web_crawling.py to add new users.
 
 # Default Credentials:
-Username: admin
-Password: password123
+1. Username: admin
+2. Password: password123
 
 # Installation Guid
 
